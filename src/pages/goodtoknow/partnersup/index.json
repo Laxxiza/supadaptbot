@@ -1,0 +1,17 @@
+{
+    "label": "Поддержка пользователей",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "voice": {
+                "text": "Голосовая"
+            },
+            "text": {
+                "text": "Письменная"
+            }
+        }]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "label": "hr-bel@yandex-team.ru почта для смены реквизитов",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

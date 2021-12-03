@@ -1,0 +1,18 @@
+{
+    "label": "Мануалы из группы: Активность.",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "amnistyActivity": {
+                "text": "Амнистия активности",
+                "url": "https://wiki.yandex-team.ru/support/taxi/partners/blocks/Амнистия-Активность/"
+            },
+            "infoActivity": {
+                "text": "Как работает активность?"
+            }
+        }]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "label": "Международка",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

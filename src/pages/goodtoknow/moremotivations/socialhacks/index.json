@@ -1,0 +1,9 @@
+{
+    "label": "Социальные плюшки?",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

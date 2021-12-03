@@ -1,0 +1,9 @@
+{
+    "label": "Ссылки",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

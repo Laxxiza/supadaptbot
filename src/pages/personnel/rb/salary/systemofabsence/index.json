@@ -1,0 +1,18 @@
+{
+    "label": "тут-текст-сообщения",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "howcalc": {
+                "text": "Как рассчитывается"
+            }
+        }, {
+            "wherepaid": {
+                "text": "Куда выплачивается"
+            }
+        }]
+    }
+}

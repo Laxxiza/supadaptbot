@@ -1,0 +1,9 @@
+{
+    "label": "краткий текст + ссылка на Мёбиус  https://moe.yandex-team.ru/courses  с различными курсами",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "label": "мануал по смене реквизитов/почта",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

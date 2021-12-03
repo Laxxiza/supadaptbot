@@ -1,0 +1,26 @@
+{
+    "label": "Показатели",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "bo": {
+                "text": "БО"
+            }
+        }, {
+            "kk": {
+                "text": "Качество"
+            }
+        }, {
+            "csat": {
+                "text": "CSAT"
+            }
+        }, {
+            "bottomlist": {
+                "text": "Боттом-лист"
+            }
+        }]
+    }
+}

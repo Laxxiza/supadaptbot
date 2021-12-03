@@ -1,0 +1,9 @@
+{
+    "label": "Крутилка(chatterbox)",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

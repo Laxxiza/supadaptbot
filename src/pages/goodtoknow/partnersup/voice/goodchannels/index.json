@@ -1,0 +1,9 @@
+{
+    "label": "чаты, которые нужны для работы",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

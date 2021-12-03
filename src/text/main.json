@@ -1,0 +1,78 @@
+{
+    "defaultPhrase": {
+        "error": "Ошибка поиска заданной страницы."
+    },
+    "serviceKeyboards": {
+        "back": {
+            "text": "◀️ Назад"
+        },
+        "main":{
+            "text":"🏠 Главное меню"
+        }
+    },
+    "scenesv2": {
+        "start": {
+            "label": "Привет, выбери линию в которой работаешь!",
+            "keyboards": [{
+                    "accaunts": {
+                        "text": "Аккаунты"
+                    }
+                }
+            ]
+        },
+        "accaunts": {
+            "label": "Что тебя интересует?",
+            "keyboards": [{
+                "activity": {
+                    "text": "Активность"
+                }
+            },
+            {
+                "priority": {
+                    "text": "Приоритет"
+                },
+                "ratingDrivers": {
+                    "text": "Рейтинг водителей"
+                }
+            }],
+            "pages": {
+                "activity": {
+                    "label": "Мануалы из группы: Активность.",
+                    "keyboards": [{
+                        "amnistyActivity": {
+                            "text": "Амнистия активности",
+                            "url": "https://wiki.yandex-team.ru/support/taxi/partners/blocks/Амнистия-Активность/"
+                        },
+                        "infoActivity": {
+                            "text": "Как работает активность?",
+                            "url": "https://wiki.yandex-team.ru/support/taxi/partners/blocks/Активность-инфо-/"
+                        }
+                    }],
+                    "pages":{
+                        "amnistyActivity":{
+                            "label":"asdasdasdasd"
+                        }
+                    }
+                },
+                "priority":{
+                    "label": "Мануалы из группы: Приоритет.",
+                    "keyboards": [{
+                        "infoPriority": {
+                            "text": "Приоритет 2.0",
+                            "url": "https://wiki.yandex-team.ru/support/taxi/partners/blocks/Prioritet-2.0/"
+                        }
+                    }]
+                },
+                "ratingDrivers":{
+                    "label": "Мануалы из группы: Рейтинг водителей.",
+                    "keyboards": [{
+                        "rationDriver": {
+                            "text": "Рейтинг водителя",
+                            "url": "https://wiki.yandex-team.ru/support/taxi/partners/blocks/Новый-рейтинг//"
+                        }
+                    }]
+                }
+            }
+        }
+    }
+}

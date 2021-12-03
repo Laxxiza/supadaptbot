@@ -1,0 +1,9 @@
+{
+    "label": "hr-bel@yandex-team.ru уточнить можно по этой рассылке",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "label": "Выбери нужный пункт меню",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "yourown": {
+                "text": "За свой счёт"
+            }
+        },{
+            "company": {
+                "text": "За счёт компании"
+            }
+        },{
+            "educational": {
+                "text": "Учебный отпуск"
+            }
+        },{
+            "child": {
+                "text": "Декретный отпуск"
+            }
+        }]
+    }
+}

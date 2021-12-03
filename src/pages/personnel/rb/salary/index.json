@@ -1,0 +1,30 @@
+{
+    "label": "Выбери нужный пункт меню",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "bankcards": {
+                "text": "Банковские карты"
+            }
+        }, {
+            "changerequisites": {
+                "text": "Смена реквизитов"
+            }
+        },{
+            "disagreepayments": {
+                "text": "Не согласен с выплатой"
+            }
+        },{
+            "systemofabsence": {
+                "text": "Система начислений ЗП"
+            }
+        },{
+            "holidays": {
+                "text": "Праздничные дни"
+            }
+        }]
+    }
+}

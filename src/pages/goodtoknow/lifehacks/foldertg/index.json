@@ -1,0 +1,9 @@
+{
+    "label": "пост в новостном канале  https://t.me/c/1343321463/22",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

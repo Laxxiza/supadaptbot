@@ -1,0 +1,22 @@
+{
+    "label": "Выбери нужный пункт меню",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "truesick": {
+                "text": "Есть больничный"
+            }
+        }, {
+            "falsesick": {
+                "text": "Нет больничного"
+            }
+        }, {
+            "sickofchild": {
+                "text": "Больничный по уходу за ребенком"
+            }
+        }]
+    }
+}

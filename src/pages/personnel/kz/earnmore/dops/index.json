@@ -1,0 +1,9 @@
+{
+    "label": "что такое допы/ как выйти в допы",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "label": "не предоставляется компанией",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

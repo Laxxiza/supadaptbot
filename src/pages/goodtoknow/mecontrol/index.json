@@ -1,0 +1,9 @@
+{
+    "label": "Самоконтроль",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

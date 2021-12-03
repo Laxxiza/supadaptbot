@@ -1,0 +1,17 @@
+{
+    "label": "Выбери нужный пункт меню",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "bonus": {
+                "text": "Премия"
+            },
+            "dops": {
+                "text": "Дополнительные смены"
+            }
+        }]
+    }
+}

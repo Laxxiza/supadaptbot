@@ -1,0 +1,26 @@
+{
+    "label": "Лайфхаки",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "hotkey": {
+                "text": "Горячие клавиши"
+            }
+        }, {
+            "foldertg": {
+                "text": "Папки в телегаме"
+            }
+        }, {
+            "browserextensions": {
+                "text": "Расширения для браузера"
+            }
+        }, {
+            "browserbookmarks": {
+                "text": "Закладки в браузере"
+            }
+        }]
+    }
+}

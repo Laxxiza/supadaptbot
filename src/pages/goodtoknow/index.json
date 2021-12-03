@@ -1,0 +1,70 @@
+{
+    "label": "Полезно знать",
+    "buttons": {
+        "settings": {
+            "backPage": false,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "usersup": {
+                "text": "Я из поддержки пользователей"
+            }
+        }, {
+            "partnersup": {
+                "text": "Я из поддержки партнеров"
+            }
+        }, {
+            "workplace": {
+                "text": "Организация рабочего места"
+            }
+        }, {
+            "dictionary": {
+                "text": "Словарик для саппорта"
+            }
+        }, {
+            "marketsup": {
+                "text": "Я из поддержки Маркета"
+            }
+        }, {
+            "courses": {
+                "text": "Курсы(Мёбиус)"
+            }
+        }, {
+            "mecontrol": {
+                "text": "Самоконтроль"
+            }
+        }, {
+            "stress": {
+                "text": "Борьба со стрессом"
+            }
+        }, {
+            "lifehacks": {
+                "text": "Лайфхаки"
+            }
+        }, {
+            "browsers": {
+                "text": "Браузеры"
+            }
+        }, {
+            "worldsup": {
+                "text": "Международка"
+            }
+        }, {
+            "communicationrules": {
+                "text": "Правила коммуникации"
+            }
+        }, {
+            "moremotivations": {
+                "text": "Доп.мотивация"
+            }
+        }, {
+            "bugtracker": {
+                "text": "Багтрекер"
+            }
+        }, {
+            "structureotdel": {
+                "text": "Структура отделов"
+            }
+        }]
+    }
+}

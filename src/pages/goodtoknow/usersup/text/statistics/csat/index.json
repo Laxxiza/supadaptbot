@@ -1,0 +1,9 @@
+{
+    "label": "CSAT",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

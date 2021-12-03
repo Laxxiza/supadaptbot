@@ -1,0 +1,9 @@
+{
+    "label": "Краткий текст + Ссылка на форму + Анонимно",
+    "buttons": {
+        "settings": {
+            "backPage": false,
+            "mainPage": true
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "label": "оповестить капитана/руководителя + уточнить",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

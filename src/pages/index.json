@@ -1,0 +1,30 @@
+{
+    "label": "Привет, выбери, что тебя интересует?",
+    "buttons": {
+        "settings": {
+            "backPage": false,
+            "mainPage": false
+        },
+        "keyboards": [{
+            "personnel": {
+                "text": "Кадровые вопросы"
+            }
+        }, {
+            "goodtoknow": {
+                "text": "Полезно знать"
+            }
+        }, {
+            "reviewsabout": {
+                "text": "Отзыв о руководителе"
+            }
+        }, {
+            "suggestions": {
+                "text": "Пожелания/предложения"
+            }
+        }, {
+            "notfoundanswer": {
+                "text": "Не нашел ответ"
+            }
+        }]
+    }
+}

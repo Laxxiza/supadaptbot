@@ -1,0 +1,46 @@
+{
+    "label": "Выбери нужный пункт меню",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "salary": {
+                "text": "Заработная плата"
+            }
+        }, {
+            "absence": {
+                "text": "Отсутствие"
+            }
+        }, {
+            "changehome": {
+                "text": "Смена места жительства"
+            }
+        }, {
+            "earnmore": {
+                "text": "Зарабатывать больше"
+            }
+        }, {
+            "changeschedule": {
+                "text": "Смена графика"
+            }
+        }, {
+            "changelastname": {
+                "text": "Смена фамилии"
+            }
+        }, {
+            "changeotdel": {
+                "text": "Смена отдела"
+            }
+        }, {
+            "docforwork": {
+                "text": "Документы для работы"
+            }
+        }, {
+            "changedocuments": {
+                "text": "Смена документов"
+            }
+        }]
+    }
+}

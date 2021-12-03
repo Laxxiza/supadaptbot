@@ -1,0 +1,9 @@
+{
+    "label": "уточнить",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

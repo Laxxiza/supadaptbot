@@ -1,0 +1,9 @@
+{
+    "label": "Я из поддержки Маркета",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

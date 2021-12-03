@@ -1,0 +1,14 @@
+{
+    "label": "Привет, выбери линию в которой работаешь!",
+    "buttons": {
+        "settings": {
+            "backPage": false,
+            "mainPage": false
+        },
+        "keyboards": [{
+            "accaunts": {
+                "text": "Аккаунты"
+            }
+        }]
+    }
+}

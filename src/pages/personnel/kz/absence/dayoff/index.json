@@ -1,0 +1,9 @@
+{
+    "label": "согласование с капитаном/руководителем",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

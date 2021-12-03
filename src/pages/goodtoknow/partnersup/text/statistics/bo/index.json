@@ -1,0 +1,9 @@
+{
+    "label": "БО",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

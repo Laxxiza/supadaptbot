@@ -1,0 +1,22 @@
+{
+    "label": "Выбери нужный пункт меню",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "sickleave": {
+                "text": "Больничный"
+            }
+        }, {
+            "vacation": {
+                "text": "Отпуск"
+            }
+        }, {
+            "dayoff": {
+                "text": "Замена/Отгул"
+            }
+        }]
+    }
+}

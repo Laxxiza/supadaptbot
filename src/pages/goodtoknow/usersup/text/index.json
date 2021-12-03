@@ -1,0 +1,26 @@
+{
+    "label": "Голосовая поддержка",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "goodchannels": {
+                "text": "Полезные каналы"
+            }
+        }, {
+            "statistics": {
+                "text": "Показатели"
+            }
+        }, {
+            "goodmanuals": {
+                "text": "Послезные мануалы"
+            }
+        }, {
+            "goodresources": {
+                "text": "Полезные ресурсы"
+            }
+        }]
+    }
+}

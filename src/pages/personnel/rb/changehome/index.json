@@ -1,0 +1,18 @@
+{
+    "label": "Выбери нужный пункт меню",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "perm": {
+                "text": "Постоянное место жительства"
+            }
+        }, {
+            "temp": {
+                "text": "Временное место жительства"
+            }
+        }]
+    }
+}

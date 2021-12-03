@@ -1,0 +1,9 @@
+{
+    "label": "Заполнение формы (я так понимаю тут форма)",
+    "buttons": {
+        "settings": {
+            "backPage": false,
+            "mainPage": true
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "label": "Кадровые вопросы",
+    "buttons": {
+        "settings": {
+            "backPage": false,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "rf": {
+                "text": "РФ"
+            },
+            "rb": {
+                "text": "РБ"
+            },
+            "kz": {
+                "text": "КЗ"
+            }
+        }]
+    }
+}

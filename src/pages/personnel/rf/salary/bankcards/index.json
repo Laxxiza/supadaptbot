@@ -1,0 +1,9 @@
+{
+    "label": "с какими банками сотрудничаем/как оформлять",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

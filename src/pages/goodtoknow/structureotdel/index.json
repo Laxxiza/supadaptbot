@@ -1,0 +1,9 @@
+{
+    "label": "структура всех отделов списком: руководитель + заместитель",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

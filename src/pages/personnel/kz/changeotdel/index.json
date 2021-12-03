@@ -1,0 +1,9 @@
+{
+    "label": "https://compendium.taxi.yandex-team.ru/posts/vacancies  - Агент - Новости - Вакансии + оповестить капитана/руководителя",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

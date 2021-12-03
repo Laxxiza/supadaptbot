@@ -1,0 +1,9 @@
+{
+    "label": "только Приорбанк",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

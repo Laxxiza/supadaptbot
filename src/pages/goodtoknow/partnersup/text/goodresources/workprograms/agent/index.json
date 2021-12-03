@@ -1,0 +1,9 @@
+{
+    "label": "Агент",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

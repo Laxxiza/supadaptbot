@@ -1,0 +1,22 @@
+{
+    "label": "Доп.мотивация",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        },
+        "keyboards": [{
+            "coins": {
+                "text": "Коины"
+            }
+        }, {
+            "sales": {
+                "text": "Скидки"
+            }
+        }, {
+            "socialhacks": {
+                "text": "Социальные плюшки?"
+            }
+        }]
+    }
+}

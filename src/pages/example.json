@@ -1,0 +1,14 @@
+{
+    "label": "тут-текст-сообщения",
+    "buttons": {
+        "settings": {
+            "backPage": false,
+            "mainPage": false
+        },
+        "keyboards": [{
+            "тут-callback-кнопки": {
+                "text": "тут-текст-кнопки"
+            }
+        }]
+    }
+}

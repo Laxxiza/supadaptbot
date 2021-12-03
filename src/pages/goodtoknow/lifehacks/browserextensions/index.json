@@ -1,0 +1,9 @@
+{
+    "label": "Расширения для браузера",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

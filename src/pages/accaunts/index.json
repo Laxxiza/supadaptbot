@@ -1,0 +1,23 @@
+{
+    "label": "Что тебя интересует?",
+    "buttons": {
+        "settings":{
+            "backPage":true,
+            "mainPage":true
+        },
+        "keyboards":[{
+                "activity": {
+                    "text": "Активность"
+                }
+            },
+            {
+                "priority": {
+                    "text": "Приоритет"
+                },
+                "ratingDrivers": {
+                    "text": "Рейтинг водителей"
+                }
+            }
+        ]
+    }
+}

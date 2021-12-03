@@ -1,0 +1,9 @@
+{
+    "label": "Борьба со стрессом",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}

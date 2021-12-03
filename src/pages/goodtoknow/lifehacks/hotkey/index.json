@@ -1,0 +1,9 @@
+{
+    "label": "список горячих клавиш",
+    "buttons": {
+        "settings": {
+            "backPage": true,
+            "mainPage": true
+        }
+    }
+}
